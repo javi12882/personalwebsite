@@ -10,8 +10,9 @@ a:hover {
 ul {
     list-style-type: none;
     padding: 0;
+    display: flex;
 }
 
 ul li {
-    margin: 5px 0;
+    margin: 5px 10px;
 }
